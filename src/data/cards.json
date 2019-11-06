@@ -1,0 +1,21 @@
+{ 
+    "cards": [
+        {
+            "id": 1, 
+            "question": "What is CORS?", 
+            "answer": "Cross-origin resource sharing"
+        },
+        {   "id": 2, 
+            "question": "What is ARIA?", 
+            "answer": "Accessible Rich Internet Applications"
+        },
+        {   "id": 3, 
+            "question": "What are the building blocks of HTML5?", 
+            "answer": "Semantics, connectivity, offline and storage, mulitmedia, 2d/3d, performance and integration, device access, styling"
+        },
+        {   "id": 4, 
+            "question": "What does a doctype do?",
+            "answer": "The <!DOCTYPE html> declaration is used to inform a website visitor's browser that the document being rendered is an HTML document. While not actually an HTML element itself, every HTML document should being with a DOCTYPE declaration to be compliant with HTML standards."
+        }
+    ]
+}
